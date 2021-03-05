@@ -1,5 +1,6 @@
 # Restaurangular
 
+🍽 A simple website for restaurant with the tuto on skilleo
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
 ## Development server
